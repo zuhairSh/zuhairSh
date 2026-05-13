@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img width="100%" src="vercel.app"/>
 
-<h1 align="center">👋 Hello, I'm Mohamed Zuhair Al shell</h1>
+<h1 align="center">👋 Hello, I'm Mohamed Zuhair</h1>
 
 <p align="center">
 <img src="herokuapp.com"/>
