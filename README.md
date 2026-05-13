@@ -57,8 +57,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
-  ذ
 # 📈 Activity Graph
 
 <p align="center">
@@ -90,7 +88,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://t.me/zuhair_Sh">
+<a href="https://t.me/Zuhair_Shell">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
