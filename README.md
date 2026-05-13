@@ -12,6 +12,8 @@
 # 👨‍💻 About Me
 
 💻 Passionate about **Software Development** & **Problem Solving**
+
+
   
 📚 Focused on :
 
@@ -25,6 +27,8 @@
  
 
 
+
+
 📈 Currently expanding into:
 
  🔹 C# (Deep Diving into Level 1 - Course 14)
@@ -34,6 +38,8 @@
  🔹 Desktop & Full Stack Applications
  
  
+
+
 
 📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
