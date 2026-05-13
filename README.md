@@ -12,23 +12,21 @@
 # 👨‍💻 About Me
 
 💻 Passionate about **Software Development** & **Problem Solving**
-
-
   
 📚 Focused on :
+
  🔹 C++ (Mastered OOP & Functional Programming)  
  🔹 Object-Oriented Programming (OOP)  
  🔹 Functional Programming (FP)  
  🔹 Problem Solving & Logic Building  
 
 
-
 📈 Currently expanding into:
+
  🔹 C# (Deep Diving into Level 1 - Course 14)  
  🔹 .NET Framework Development  
  🔹 Desktop & Full Stack Applications  
-
-
+ 
 
 📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
