@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img width="100%" src="vercel.app"/>
 
-<h1 align="center">👋 Hello, I'm Mohamed Zuhair</h1>
+<h1 align="center">👋 Hello, I'm Mohamed Zuhair Al shell</h1>
 
 <p align="center">
 <img src="herokuapp.com"/>
@@ -13,15 +13,16 @@
 
 💻 Passionate about **Software Development** & **Problem Solving**
 
-📚 Focused on:
- 🔹 C++ (Mastered OOP & Functional Programming)
- 🔹 Object-Oriented Programming (OOP)
- 🔹 Functional Programming (FP)
- 🔹 Problem Solving & Logic Building
+📚 Focused on :
+ 🔹 C++ (Mastered OOP & Functional Programming)  
+ 🔹 Object-Oriented Programming (OOP)  
+ 🔹 Functional Programming (FP)  
+ 🔹 Problem Solving & Logic Building  
 
 📈 Currently expanding into:
- 🔹 C# (Deep Diving into Level 1 - Course 14)
- 🔹 .NET Framework Development
+ 🔹 C# (Deep Diving into Level 1 - Course 14)  
+ 🔹 .NET Framework Development  
+ 🔹 Desktop & Full Stack Applications  
 
 📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
@@ -93,7 +94,7 @@
 
 class MohamedZuhair {
 public:
-    string currentTrack = ".NET & Full Stack Developer";
+    string track = ".NET & Full Stack Developer";
     string platform = "ProgrammingAdvices";
     string favoriteLanguages = "C++ & C#";
     string coreStrengths = "OOP, FP & Problem Solving";
