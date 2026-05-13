@@ -33,9 +33,33 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,sqlserver"/>
+
+  
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
   ذ
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhairSh&theme=tokyo-night"/>
+</p>
 ---
+
+# 📊 GitHub Metrics Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairSh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhairSh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhairSh&theme=tokyonight"/>
+
+</p>
 
 # 📬 Contact Me
 
@@ -47,6 +71,10 @@
 
 <a href="https://wa.me/96877002286">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Zuhair_Sh">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
 </p>
