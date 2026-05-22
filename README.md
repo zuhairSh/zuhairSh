@@ -11,38 +11,31 @@
 
 # 👨‍💻 About Me
 
-💻 Passionate about **Software Development** & **Problem Solving**
+💻 Passionate about **Software Development**, **Database Design**, and **Problem Solving**
 
+📚 Currently Learning & Improving:
 
-  
-📚 Focused on :
+🔹 C++ (OOP & Functional Programming)
 
- 🔹 C++ (Mastered OOP & Functional Programming)
- 
- 🔹 Object-Oriented Programming (OOP)
- 
- 🔹 Functional Programming (FP)
- 
- 🔹 Problem Solving & Logic Building
- 
+🔹 C# & .NET Framework Development
 
+🔹 Windows Forms Desktop Applications
 
+🔹 SQL Server & Database Systems
 
+🔹 Database Design & Data Modeling
 
-📈 Currently expanding into:
+🔹 ERD (Entity Relationship Diagram)
 
- 🔹 C# (Deep Diving into Level 1 - Course 14)
- 
- 🔹 .NET Framework Development
- 
- 🔹 Desktop & Full Stack Applications
- 
- 
+🔹 Relational Schema Design
 
+🔹 Problem Solving & Logic Building
 
+📈 Building projects to improve programming, design patterns, and software architecture skills.
 
-📍 Following **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
+📍 Following the **ProgrammingAdvices Roadmap**  
+👨‍🏫 Instructor: **Dr. Mohammed Abu-Hadhoud**
+
 
 ---
 
@@ -56,7 +49,17 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database_Design-0F2027?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ERD-203A43?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Relational_Schema-2C5364?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+</p>
 
 ---
 
