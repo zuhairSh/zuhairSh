@@ -4,8 +4,9 @@
 <h1 align="center">👋 Hello, I'm Mohamed Zuhair Al Shell</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20OOP;Functional%20Programming;Problem%20Solving;Future%20Software%20Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+Developer;C%23+%7C+.NET+Developer;SQL+%7C+ERD+%7C+Relational+Schema;OOP+%7C+Functional+Programming;Problem+Solving+Enthusiast"/>
 </p>
+
 
 ---
 
