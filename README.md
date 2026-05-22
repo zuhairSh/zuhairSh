@@ -23,8 +23,6 @@
 
 🔹 SQL Server & Database Systems
 
-🔹 Database Design & Data Modeling
-
 🔹 ERD (Entity Relationship Diagram)
 
 🔹 Relational Schema Design
@@ -50,8 +48,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Database_Design-0F2027?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ERD-203A43?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
 
