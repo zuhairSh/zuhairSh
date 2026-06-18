@@ -95,6 +95,11 @@
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
+
+<a href="https://www.linkedin.com/in/muhammed-zuhair-al-shell-675013417?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=LinkedIn"/>
+</a>
+
 </p>
 
 ---
