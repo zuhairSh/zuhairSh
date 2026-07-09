@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello, I'm Mohamed Zuhair Al Shell</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B;C%23+%7C+.NET+Framework;SQL+%7C+ERD+%7C+Relational+Schema;OOP+%7C+Functional+Programming;Problem+Solving+"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B;C%23+%7C+.NET+Framework;ADO.NET+%7C+3-Tier+Architecture;SQL+%7C+ERD+%7C+Relational+Schema;OOP+%7C+Functional+Programming;Problem+Solving+"/>
 </p>
 
 
@@ -21,6 +21,8 @@
 🔹 C# & .NET Framework Development
 
 🔹 Windows Forms Desktop Applications
+
+🔹 **ADO.NET & 3-Tier Architecture**
 
 🔹 SQL Server & Database Systems
 
@@ -42,13 +44,15 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,sqlserver"/>
-
-  
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/3--Tier_Architecture-2C5364?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ERD-203A43?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
 
@@ -102,8 +106,6 @@
 </p>
 
 ---
-
-
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
